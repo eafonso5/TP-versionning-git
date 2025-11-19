@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**Nom du projet : À REMPLACER PAR LE GROUPE**
+**Nom du projet : TP Git – Admin Groupe 2**
 
 Bienvenue dans ce petit TP Git.
 
