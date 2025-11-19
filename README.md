@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**testNom du projet : TP Git – Admin Groupe 2**
+**tregrestNom du projet : TP Git – Admin Groupe 2**
 
 Bienvenue dans ce petit TP Git.
 
